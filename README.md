@@ -1,3 +1,12 @@
+1-ая задача
+https://acmp.ru/index.asp?main=task&id_task=422
+
+2-ая задача
+https://acmp.ru/index.asp?main=task&id_task=906
+
+3-ья задача
+https://acmp.ru/index.asp?main=task&id_task=601
+
 4-ая задача
 https://acmp.ru/index.asp?main=task&id_task=913
 
